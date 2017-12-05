@@ -2,7 +2,7 @@
 layout: post
 title: 测试
 category: 杂项
-date: 2017-02-08
+date: 2017-12-05
 create: 2015-08-03
 math: true
 ---
@@ -25,6 +25,30 @@ math: true
 _斜体_  __粗体__
 
 ~~还有~~
+
+缩略词定义，缩略词是什么？
+
+*[缩略词]: 简写的词语
+
+Notice提示
+{: .notice}
+
+Notice信息
+{: .notice--info}
+
+Notice警告
+{: .notice--warning}
+
+![头像](https://i.loli.net/2017/12/05/5a265e00ae562.jpg '头像')
+{: .align-right}
+
+以及图片，和图片靠右摆放的语法。
+
+:sparkles: jemoji 支持
+
+@zYeoman : jekyll-mentions 测试
+
+
 
 ## 第二行标题
 
