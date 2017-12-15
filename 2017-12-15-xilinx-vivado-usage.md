@@ -2,8 +2,8 @@
 layout: post
 title: Xilinx Vivado 使用
 category: 学习
-date: 2017-12-15
-create: 2017-12-15 18:54:22
+date: 2017-12-15 23:06 +0800
+create: 2017-12-15 16:53:22 +0800
 ---
 
 主要是一部分网络上的东西，转载一下。
